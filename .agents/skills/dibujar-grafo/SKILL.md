@@ -1,0 +1,5 @@
+---
+name: dibujar-grafo
+description: Dibuja el grafo de una CMTD no homogénea asociada a un instante específico. Se utiliza después de calcular las probabilidades de transición entre estados para un instante específico de manera de poder tener una representación visual del fenómeno.
+---
+Una vez que se tiene la matriz de transición para un momento específico, entonces se debe dibujar el grafo asociado. El grafo debe contener a todos los nodos distribuidos de tal manera que permita una visualización limpia y clara. Además, la distribución debe cumplir con minimizar la cantidad de cruces que ocurren entre los diferentes arcos. Finalmente las probabilidades de transición deben estar escritas entre los arcos de cada nodo. El resultado de este grafo debe ser guardado en resultados/gráficos con el formato "grafo_{n}.png" donde {n} representa el instante de la matriz de transición con la cual se construye el grafo. Utiliza el script `dibujar-grafo.py` ubicado en `scripts/dibujar-grafo.py` para dibujar el grafo.

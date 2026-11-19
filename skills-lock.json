@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "skills": {
+    "paper-writing": {
+      "source": "vishalsachdev/claude-code-skills",
+      "commit": "542096af468d1bc1099b41995e77c5538e0f6f56",
+      "sourceType": "github",
+      "skillPath": "skills/paper-writing/SKILL.md",
+      "computedHash": "beb2962f7d839a563cdf922450277d4b29b684f61ede6e5df3c0285e984d5f53"
+    },
+    "simpy-discrete-event-simulation": {
+      "source": "jaechang-hits/SciAgent-Skills",
+      "commit": "65d6ceb875e20b751ffb3a6d8ee19516558789e1",
+      "sourceType": "github",
+      "skillPath": "skills/scientific-computing/simpy-discrete-event-simulation/SKILL.md",
+      "computedHash": "cb8c72d3b5708409b110e4c9448a1c5b95c81e9dbd188010a15c1085a99a4a95"
+    }
+  }
+}
