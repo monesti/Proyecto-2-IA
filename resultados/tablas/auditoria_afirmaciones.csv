@@ -1,0 +1,8 @@
+afirmacion,valor_recalculado,ubicacion,estado
+Registros horarios,204000 registros,caracteres 2070-2093,APROBADO
+Intersecciones semaforizadas,100 intersecciones,caracteres 2095-2115,APROBADO
+Variables procesadas,20 variables,caracteres 2117-2131,APROBADO
+Transición Low-Low noche,P Low-Low=0.976,caracteres 2821-2826,APROBADO
+Persistencia Severe lluvia,P Severe-Severe=0.128,caracteres 2887-2892,APROBADO
+P-valor homogeneidad,p<0.001,caracteres 3088-3095,APROBADO
+R2 no lineal,R2=0.4223,caracteres 3933-3939,APROBADO

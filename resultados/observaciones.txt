@@ -1,0 +1,5 @@
+La literatura local disponible respalda la propiedad de Markov, la definición de CMTD,
+las probabilidades de transición y el concepto de homogeneidad. No se encontró en
+fuentes/ un fragmento específico sobre demora vehicular no lineal en intersecciones
+semaforizadas. Por ello, esa relación se reporta como resultado empírico del dataset
+procesado y de la validación discreta en SimPy, no como una afirmación bibliográfica.

@@ -17,7 +17,6 @@ RELEVANT_COLUMNS = [
     "congestion_level",
     "congestion_score",
     "hour",
-    "day_of_week",
     "is_weekend",
     "peak_period",
     "weather_condition",
@@ -31,6 +30,7 @@ RELEVANT_COLUMNS = [
     "green_light_duration",
     "speed_limit",
     "average_speed",
+    "iot_sensor_health",
 ]
 
 
@@ -58,14 +58,8 @@ def main() -> None:
         "congestion_level",
         "peak_period",
         "weather_condition",
-        "day_of_week",
-        "is_weekend",
     ):
         print(f"unicos_{column}={sorted(clean[column].dropna().unique().tolist(), key=str)}")
-    print(
-        "pares_unicos_road_intersection="
-        f"{clean[['road_id', 'intersection_id']].drop_duplicates().shape[0]}"
-    )
 
 
 if __name__ == "__main__":

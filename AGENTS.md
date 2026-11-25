@@ -10,3 +10,4 @@
     - Si es una tabla guardalo en resultados/tablas/.
 - Trabaja sobre una copia de `smart_city_traffic_mobility.csv` y manten el archivo original intacto sin modificarlo.
 - Debes mantener el **AGENTS.md** sin modificaciones conservando su versión original.
+- Para citas de teoría utiliza la información provista en fuentes/. y menciona en el informe de qué documento obtuviste la información.

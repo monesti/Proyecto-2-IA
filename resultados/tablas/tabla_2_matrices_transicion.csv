@@ -1,0 +1,113 @@
+regime,from_state,to_state,probability
+Night | Clear,Low,Low,0.9763989466754444
+Night | Clear,Low,Moderate,0.023535220539828833
+Night | Clear,Low,High,4.9374588545095457e-05
+Night | Clear,Low,Severe,1.6458196181698484e-05
+Night | Clear,Moderate,Low,0.9528301886792453
+Night | Clear,Moderate,Moderate,0.04716981132075472
+Night | Clear,Moderate,High,0.0
+Night | Clear,Moderate,Severe,0.0
+Night | Clear,High,Low,0.0
+Night | Clear,High,Moderate,0.0
+Night | Clear,High,High,0.0
+Night | Clear,High,Severe,0.0
+Night | Clear,Severe,Low,0.0
+Night | Clear,Severe,Moderate,0.0
+Night | Clear,Severe,High,0.0
+Night | Clear,Severe,Severe,0.0
+Evening Peak | Rain,Low,Low,0.9594594594594594
+Evening Peak | Rain,Low,Moderate,0.04054054054054054
+Evening Peak | Rain,Low,High,0.0
+Evening Peak | Rain,Low,Severe,0.0
+Evening Peak | Rain,Moderate,Low,0.6958211856171039
+Evening Peak | Rain,Moderate,Moderate,0.304178814382896
+Evening Peak | Rain,Moderate,High,0.0
+Evening Peak | Rain,Moderate,Severe,0.0
+Evening Peak | Rain,High,Low,0.3811881188118812
+Evening Peak | Rain,High,Moderate,0.6163366336633663
+Evening Peak | Rain,High,High,0.0024752475247524753
+Evening Peak | Rain,High,Severe,0.0
+Evening Peak | Rain,Severe,Low,0.033216783216783216
+Evening Peak | Rain,Severe,Moderate,0.21328671328671328
+Evening Peak | Rain,Severe,High,0.6258741258741258
+Evening Peak | Rain,Severe,Severe,0.12762237762237763
+Weekday,Low,Low,0.8744543062823441
+Weekday,Low,Moderate,0.04063430570412559
+Weekday,Low,High,0.069429587441094
+Weekday,Low,Severe,0.015481800572436324
+Weekday,Moderate,Low,0.6557539682539683
+Weekday,Moderate,Moderate,0.3203373015873016
+Weekday,Moderate,High,0.01498015873015873
+Weekday,Moderate,Severe,0.008928571428571428
+Weekday,High,Low,0.18917025322790512
+Weekday,High,Moderate,0.3151836652987689
+Weekday,High,High,0.0007006305675107597
+Weekday,High,Severe,0.4949454509058152
+Weekday,Severe,Low,0.0038211424865471247
+Weekday,Severe,Moderate,0.015039175474575379
+Weekday,Severe,High,0.08816672801528457
+Weekday,Severe,Severe,0.8929729540235929
+Weekend,Low,Low,0.9197296546616054
+Weekend,Low,Moderate,0.07743110205845138
+Weekend,Low,High,0.0022837391599543253
+Weekend,Low,Severe,0.0005555041199888899
+Weekend,Moderate,Low,0.42144553783508654
+Weekend,Moderate,Moderate,0.18680013573125212
+Weekend,Moderate,High,0.3554462164913471
+Weekend,Moderate,Severe,0.03630810994231422
+Weekend,High,Low,0.015647519044677784
+Weekend,High,Moderate,0.43483631871525635
+Weekend,High,High,0.08956145768993205
+Weekend,High,Severe,0.4599547045501338
+Weekend,Severe,Low,0.0006230098297106465
+Weekend,Severe,Moderate,0.014121556140107988
+Weekend,Severe,High,0.1559601273708985
+Weekend,Severe,Severe,0.8292953066592829
+Clear,Low,Low,0.8877579445861101
+Clear,Low,Moderate,0.05367818801294277
+Clear,Low,High,0.04786037242591124
+Clear,Low,Severe,0.010703494975035893
+Clear,Moderate,Low,0.5286654507969233
+Clear,Moderate,Moderate,0.2946633891047498
+Clear,Moderate,High,0.15660930933312187
+Clear,Moderate,Severe,0.02006185076520498
+Clear,High,Low,0.12943524541691306
+Clear,High,Moderate,0.3565198107628622
+Clear,High,High,0.028163808397397988
+Clear,High,Severe,0.48588113542282674
+Clear,Severe,Low,0.002932734306751529
+Clear,Severe,Moderate,0.012713715212779234
+Clear,Severe,High,0.10169412205166604
+Clear,Severe,Severe,0.8826594284288032
+Heavy Rain,Low,Low,0.9021386908619572
+Heavy Rain,Low,Moderate,0.0440699935191186
+Heavy Rain,Low,High,0.046662346079066754
+Heavy Rain,Low,Severe,0.007128969539857421
+Heavy Rain,Moderate,Low,0.7796833773087071
+Heavy Rain,Moderate,Moderate,0.1358839050131926
+Heavy Rain,Moderate,High,0.06860158311345646
+Heavy Rain,Moderate,Severe,0.0158311345646438
+Heavy Rain,High,Low,0.1891025641025641
+Heavy Rain,High,Moderate,0.30448717948717946
+Heavy Rain,High,High,0.09294871794871795
+Heavy Rain,High,Severe,0.41346153846153844
+Heavy Rain,Severe,Low,0.008767881864328565
+Heavy Rain,Severe,Moderate,0.05214582371942778
+Heavy Rain,Severe,High,0.09460083064143977
+Heavy Rain,Severe,Severe,0.8444854637748038
+Global,Low,Low,0.8888965456138451
+Global,Low,Moderate,0.052371998700544396
+Global,Low,High,0.048010946929051695
+Global,Low,Severe,0.010720508756558805
+Global,Moderate,Low,0.5693001126831101
+Global,Moderate,Moderate,0.27106548140728687
+Global,Moderate,High,0.14060348065606612
+Global,Moderate,Severe,0.019030925253536998
+Global,High,Low,0.13240840517241378
+Global,High,Moderate,0.35432381465517243
+Global,High,High,0.02976831896551724
+Global,High,Severe,0.4834994612068966
+Global,Severe,Low,0.003174958389862512
+Global,Severe,Moderate,0.014853770088255452
+Global,Severe,High,0.10186441389149195
+Global,Severe,Severe,0.8801068576303901

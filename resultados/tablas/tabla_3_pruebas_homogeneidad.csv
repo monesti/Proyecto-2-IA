@@ -1,0 +1,4 @@
+variable,chi2,df,p_value
+peak_period,308589.188072649,60,0.0
+weather_condition,5773.0657938894865,45,0.0
+is_weekend,13834.219982554132,15,0.0

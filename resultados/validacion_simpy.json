@@ -1,0 +1,45 @@
+{
+  "parameters": {
+    "cycle_minutes": 2.0,
+    "green_minutes": 1.0,
+    "service_minutes": 0.5,
+    "effective_service_rate_per_minute": 1.0,
+    "simulation_minutes": 1800.0,
+    "warmup_minutes": 300.0
+  },
+  "results": [
+    {
+      "rho": 0.2,
+      "wait_mean_minutes": 0.31536372445736083,
+      "replications": 3
+    },
+    {
+      "rho": 0.4,
+      "wait_mean_minutes": 0.5064469896528873,
+      "replications": 3
+    },
+    {
+      "rho": 0.6,
+      "wait_mean_minutes": 0.9582402820182027,
+      "replications": 3
+    },
+    {
+      "rho": 0.8,
+      "wait_mean_minutes": 2.2806272384235142,
+      "replications": 3
+    },
+    {
+      "rho": 0.9,
+      "wait_mean_minutes": 3.766407262996888,
+      "replications": 3
+    }
+  ],
+  "monotonic_increase": true,
+  "reference_table_4": {
+    "nonlinear_r2": 0.42227569762058914,
+    "rho_decile_mean_min": 0.03443147321376724,
+    "rho_decile_mean_max": 0.390617448676793,
+    "wait_decile_mean_min": 1.4909108716944173,
+    "wait_decile_mean_max": 45.065983325159394
+  }
+}
